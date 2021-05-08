@@ -1,0 +1,36 @@
+/*
+I, Amandeep Kaur, student number 000822179, certify that this material is my original work. No other person's work has been used without due acknowledgment and 
+I have not made my work available to anyone else.
+*/
+body{
+    padding:20px;
+}
+.aBox{
+    border:2px solid black;
+    width:fit-content;
+    padding: 10px 20px 10px 20px;
+    margin:20px;
+    background-color: black;
+    color: white;
+}
+.aButton{
+    margin:10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    float: left;
+}
+.anotherBox{
+    border:2px solid black;
+    width:fit-content;
+    padding: 10px 20px 10px 20px;
+    margin:20px;
+    background-color: lightcoral;
+}
